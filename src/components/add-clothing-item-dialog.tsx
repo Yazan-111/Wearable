@@ -646,7 +646,7 @@ export function AddClothingItemDialog({ open, onOpenChange, onAddItem, editItem 
                 <div className="p-4 bg-orange-50 rounded-lg border border-orange-200">
                   <p className="text-sm text-orange-800">
                     <strong>Ready to add to wardrobe!</strong> Your item has been analyzed and tagged. 
-                    Click "Add Item to Wardrobe" to save it to your collection.
+                    Click "Add Item to Wardrobe\" to save it to your collection.
                   </p>
                 </div>
               </CardContent>
